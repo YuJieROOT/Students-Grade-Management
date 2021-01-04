@@ -1,4 +1,5 @@
 #  创建人:  1805120626_实验1班_喻洁
+#  将此项目开源到GitHub
 
 import pymssql  # pymssql是python用来连接Microsoft SQL Server的一个工具库
 import tkinter as tk
